@@ -1,2 +1,2 @@
-# To-Do-list
-https://shweta-todolist.netlify.app/
+# Notes
+https://shweta-notes.netlify.app/
